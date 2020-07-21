@@ -13,4 +13,3 @@ plotHist(ax1)
 ax2 = fig.add_subplot(332)
 plotHist(ax2)
 plt.show()
-
